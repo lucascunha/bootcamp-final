@@ -1,0 +1,58 @@
+[
+  {
+    "name": "comunidade",
+    "path": "/comunidade",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/comunidade/index.vue",
+    "chunkName": "pages/comunidade/index",
+    "_name": "_ef6588d4"
+  },
+  {
+    "name": "conta",
+    "path": "/conta",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/conta/index.vue",
+    "chunkName": "pages/conta/index",
+    "_name": "_120d3f48"
+  },
+  {
+    "name": "info",
+    "path": "/info",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/info/index.vue",
+    "chunkName": "pages/info/index",
+    "_name": "_106a2112"
+  },
+  {
+    "name": "sobre",
+    "path": "/sobre",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/sobre/index.vue",
+    "chunkName": "pages/sobre/index",
+    "_name": "_aa8992b4"
+  },
+  {
+    "name": "testes",
+    "path": "/testes",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/testes/index.vue",
+    "chunkName": "pages/testes/index",
+    "_name": "_16c604ee"
+  },
+  {
+    "name": "auth-signin",
+    "path": "/auth/signin",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/auth/signin.vue",
+    "chunkName": "pages/auth/signin",
+    "_name": "_4fb146da"
+  },
+  {
+    "name": "auth-signout",
+    "path": "/auth/signout",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/auth/signout.vue",
+    "chunkName": "pages/auth/signout",
+    "_name": "_79d53e50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/mnt/wsl/PHYSICALDRIVE1/develop/impacta/bootcamp/bootcamp/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_05640f08"
+  }
+]

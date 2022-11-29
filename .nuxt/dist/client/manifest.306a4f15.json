@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-firebase-auth-google-facebook",
+  "short_name": "nuxt-firebase-auth-google-facebook",
+  "description": "nodev v14.21.1 (64-bit) ## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
